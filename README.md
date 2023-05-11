@@ -1,6 +1,6 @@
 # Objectives
 
-An Authorization template for passport
+An Authorization template using Passport
 
 ---
 
