@@ -1,12 +1,6 @@
 # Objectives
 
-- It's a beginner level app created to understand how MVC concept and logins are added
-
----
-
-# Who is this for? 
-
-- It's for beginners & intermediates with little more experience, to help understand the various aspects of building a node app with some complex features
+An Authorization template for passport
 
 ---
 
@@ -25,7 +19,7 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 # Things to add
 
 - Create a `.env` file and add the following as `key: value` 
-  - PORT: 2121 (can be any port example: 3000) 
+  - PORT: 3500 
   - DB_STRING: `your database URI` 
  ---
  
